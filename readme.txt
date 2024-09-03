@@ -1,1 +1,1 @@
-Hi
+this document instruct you how to use style.css file
